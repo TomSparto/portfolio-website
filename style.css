@@ -69,14 +69,14 @@ hr { /*styling the hr*/
 }
 
 a:link {
-	color: #adad95;
+	color: #1031c9;
 }
 a:visited {
-	color: #38382f;
+	color: #091963;
 }
 a:hover {
-	color: #fbffcf;
+	color: #6377d4;
 }
 a:active {
-	color: #85876c;
+	color: #0e2cb5;
 }
