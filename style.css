@@ -16,20 +16,20 @@ h1 { /*font styling for h1*/
 
 .inside-header-footer { /*class used to style the interior text of header and footer element*/
 	text-align: center;
-	font-family: "Brush Script MT", cursive;
+	font-family: Serif;
 	color: #b5b5ac;
 }
 
 .wrapper-1 { /*first wrapper class used to wrap intro and image classes*/
 	width: 750px;
 	margin: auto;
-	font-family: "Brush Script MT", cursive;
+	font-family: Sans-serif;
 }
 
 .wrapper-2 { /*second wrapper class used to wrapp the rest of the main element*/
 	width: 350px;
 	margin: auto;
-	font-family: "Brush Script MT", cursive;
+	font-family: Sans-serif;
 }
 
 .image { /*image class used to position and float the image*/
