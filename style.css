@@ -1,38 +1,38 @@
-body {
+body { /*styles the whole body element*/
 	background-color: #b5b5ac;
 	margin: 0;
 	padding: 0;
 }
 
-header, footer {
+header, footer { /*styles the heder and footer elements*/
 	background-color: #000000;
 	padding-top: 20px;
 	padding-bottom: 20px;
 }
 
-h1 {
+h1 { /*font styling for h1*/
 	font-size: 70px;
 }
 
-.inside-header-footer {
+.inside-header-footer { /*class used to style the interior text of header and footer element*/
 	text-align: center;
 	font-family: "Brush Script MT", cursive;
 	color: #b5b5ac;
 }
 
-.wrapper-1 {
+.wrapper-1 { /*first wrapper class used to wrap intro and image classes*/
 	width: 750px;
 	margin: auto;
 	font-family: "Brush Script MT", cursive;
 }
 
-.wrapper-2 {
+.wrapper-2 { /*second wrapper class used to wrapp the rest of the main element*/
 	width: 350px;
 	margin: auto;
 	font-family: "Brush Script MT", cursive;
 }
 
-.image {
+.image { /*image class used to position and float the image*/
 	margin-left: 20px;
 	margin-top: 20px;
 	width: 50%;
@@ -40,30 +40,30 @@ h1 {
 	
 }
 
-.intro {
+.intro { /*intro class used to position container next to floating image*/
 	padding-top: 20px;
 	margin-left: 50%;
 }
 
-.below-float {
+.below-float { /*spacing between hr*/
 	margin-top: 100px;
 }
 
-hr {
+hr { /*styling the hr*/
 	width: 40%;
 	background-color: #000000;
 	border: none;
 	height: 2px;
 }
 
-.space-below {
+.space-below { /*spacing between hr*/
 	margin-bottom: 50px;
 }
 
-.space-above {
+.space-above { /*spacing between hr*/
 	margin-top: 50px;
 }
 
-.center {
+.center { /*class used to align text to center*/
 	text-align: center;
 }
