@@ -46,7 +46,7 @@ h1 { /*font styling for h1*/
 }
 
 .below-float { /*spacing between hr*/
-	margin-top: 150px;
+	margin-top: 175px;
 }
 
 hr { /*styling the hr*/
@@ -66,4 +66,17 @@ hr { /*styling the hr*/
 
 .center { /*class used to align text to center*/
 	text-align: center;
+}
+
+a:link {
+	color: #adad95;
+}
+a:visited {
+	color: #38382f;
+}
+a:hover {
+	color: #fbffcf;
+}
+a:active {
+	color: #85876c;
 }
